@@ -1,4 +1,4 @@
-# **PROJECT TITLE** 🚧 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) ![StatusBadge](https://badgen.net/badge/Status/In%20Progress/orange) ![StatusBadge](https://badgen.net/badge/Status/Not%20Completed/red) 
+# **GEAR INDICATOR DISPLAY** ⚙️ ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
 Tags: (little images)
 
@@ -24,15 +24,15 @@ Year / quarter / month / period (Optional)
 
 ## Ratings
 
-Difficulty: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+Difficulty: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-Parts needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
+Parts needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-Cost: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+Cost: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-Usefulness: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+Usefulness: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-Time needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+Time needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
 ## REPORT (?)
 
@@ -51,21 +51,21 @@ Check the report in the repository if avaiable.
 (Do you want to have it printed? Click Here.)
 
 
-## Electrical diagram (if necessary)
+## Wiring diagram
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Wiring diagram.png" width="800">
 </p>
 
 Hardware components:
-- 1 x Arduino
-- 5 x 220Ohm Resistor 
-- ecc
+- 1 x Arduino (Generic)
+- 7 x 220Ohm Resistor 
+- 1 x Seven-segment Display LED **COMMON CATHODE** ( 5V ) (1.8 inch)
+- 1 x 3D Printed Case (Optional)
 
 Necessary tools:
 - Soldering Iron
-- 3D Printer 
-- ecc
+- 3D Printer (Optional)
 
 ### How to assemble it
 
