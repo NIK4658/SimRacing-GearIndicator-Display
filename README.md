@@ -23,7 +23,7 @@
 Year / quarter / month / period (Optional)
 
 <p class="Project Presentation Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="1000">
 </p>
 
 ### Features
@@ -90,14 +90,19 @@ Necessary tools:
 
 ## GALLERY:
 
-### RENDER
+### RENDERS
 
-<p class="Single Image Render?" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="Render1 & 2" align="center">
+  <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="500">
+  <img align="center" src="./src/images/Renders/Fullpreview16-9.png" width="500">
+</p>
+
+<p class="Render3" align="center">
+  <img align="center" src="./src/images/Renders/Close-Up.png" width="1000">
 </p>
 
 ## IRL (Project Completed)
 
-<p class="Multiple IRL Images?" align="center">
+<p class="3D MODELS IMAGES" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
