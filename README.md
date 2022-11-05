@@ -93,8 +93,8 @@ Necessary tools:
 ### RENDERS
 
 <p class="Render1 & 2" align="center">
-  <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="475">
-  <img align="center" src="./src/images/Renders/Close-Up-TurnedOn.png" width="475">
+  <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="400">
+  <img align="center" src="./src/images/Renders/Close-Up-TurnedOn.png" width="400">
 </p>
 
 <p class="Render3" align="center">
