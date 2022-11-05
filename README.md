@@ -94,7 +94,7 @@ Necessary tools:
 
 <p class="Render1 & 2" align="center">
   <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="500">
-  <img align="center" src="./src/images/Renders/FullPreview16-9.png" width="500">
+  <img align="center" src="./src/images/Renders/Close-UP-TurnedOn.png" width="500">
 </p>
 
 <p class="Render3" align="center">
