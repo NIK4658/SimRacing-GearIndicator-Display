@@ -27,22 +27,22 @@ Year / quarter / month / period (Optional)
 </p>
 
 ### Features
-- 
-- 
-- 
+- Shows all possible one-digit gears, including **Neutral** (N) and **Reverse** (R).
+- **Flashes** while the car is on the redline. *(Optional)*
+- **Compatible with all Racing games** thanks to [SimHub](https://www.simhubdash.com/).
 
 
 ## Ratings
 
-Difficulty: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
+**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-Parts needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-Cost: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-Usefulness: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
+**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-Time needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
+**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
 ## REPORT (?)
 
@@ -50,7 +50,9 @@ Check the report in the repository if avaiable.
 
 ---
 
-## 3D MODELS IMAGES (if necessary)
+## 3D MODELS IMAGES
+
+### **CASE:**
 
 <p class="3D MODELS IMAGES" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
@@ -61,30 +63,33 @@ Check the report in the repository if avaiable.
 (Do you want to have it printed? Click Here.)
 
 
-## Wiring diagram
+## **Wiring diagram**
 
 <p class="Electrical Diagram Image" align="center">
   <img align="center" src="./src/images/Wiring diagram.png" width="800">
 </p>
 
-Hardware components:
-- 1 x Arduino (Generic)
-- 7 x 220Ohm Resistor 
+**Hardware components:**
+- 1 x Arduino *(Generic)*
+- 1 x **74HC595** Shift Register Chip 
+- 7 x 220Ohm Resistor  
 - 1 x Seven-segment Display LED **COMMON CATHODE** ( 5V ) (1.8 inch)
-- 1 x 3D Printed Case (Optional)
+- 1 x 3D Printed Case *(Optional)*
 
-Necessary tools:
+**Necessary tools:**
 - Soldering Iron
-- 3D Printer (Optional)
+- 3D Printer *(Optional)*
 
-### How to assemble it
+### **How to assemble it**
 
-1. Phase 1
-2. Phase 2
-3. Phase 3
-4. Phase 4
-5. Phase 5
-6. ecc
+1. Follow the **Wiring diagram** and connect the **Pins**: *GND, VCC (5V), 4, 3 and 2* as shown.
+2. Connect the **VCC (5V)** to the correct pin of the **Seven-segment Display**.
+3. Connect the **Shift Register Chip** to the **Seven-segment Display** and **placing resistors in the middle**.
+4. Fix the chip and arduino securely to the back of the display.
+5. Insert the components into the *3D printed Case* and close it.
+6. Connect Arduino to the PC via USB cable.
+7. Install the **latest version** of *[SimHub](https://www.simhubdash.com/)*.
+8. *Setup the Gear Indicator Display Via [SimHub](https://www.simhubdash.com/)*.
 
 ---
 
