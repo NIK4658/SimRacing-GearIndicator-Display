@@ -18,9 +18,7 @@
 
 ## **PROJECT DESCRIPTION:**
 
-[Text Description]
-
-Year / quarter / month / period (Optional)
+Text Description
 
 <p class="Project Presentation Image" align="center">
   <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="1000">
@@ -44,9 +42,9 @@ Year / quarter / month / period (Optional)
 
 **Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-## REPORT (?)
+[//]: # (## REPORT)
+[//]: # (Check the report in the repository if avaiable.)
 
-Check the report in the repository if avaiable.
 
 ---
 
@@ -55,18 +53,33 @@ Check the report in the repository if avaiable.
 ### **CASE:**
 
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/3D%20Models/Case3.png" width="300">
+  <img align="center" src="./src/images/3D%20Models/Case1.png" width="300">
+  <img align="center" src="./src/images/3D%20Models/Case2.png" width="300">
 </p>
 
-(One or two images that contains multiple view of one or many 3D models)
+### **BACK:**
 
-(Do you want to have it printed? Click Here.)
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/3D%20Models/Back2.png" width="300">
+  <img align="center" src="./src/images/3D%20Models/Back3.png" width="300">
+  <img align="center" src="./src/images/3D%20Models/Back1.png" width="300">
+</p>
+
+
+---
+
+### **3D MODEL FILES:**
+
+**All** 3D models files are **available for free** and *can be found in the repository.*
+
+[//]: # (Do you want to have it printed? Click Here.)
 
 
 ## **Wiring diagram**
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/Wiring diagram.png" width="800">
+  <img align="center" src="./src/images/Wiring%20Diagram/Wiring diagram.png" width="800">
 </p>
 
 **Hardware components:**
@@ -74,6 +87,8 @@ Check the report in the repository if avaiable.
 - 1 x **74HC595** Shift Register Chip 
 - 7 x 220Ohm Resistor  
 - 1 x Seven-segment Display LED **COMMON CATHODE** ( 5V ) (1.8 inch)
+- 2 x M5 Bolts
+- 2 x M5 Nuts
 - 1 x 3D Printed Case *(Optional)*
 
 **Necessary tools:**
