@@ -53,17 +53,17 @@ Text Description
 ### **CASE:**
 
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/3D%20Models/Case3.png" width="300">
-  <img align="center" src="./src/images/3D%20Models/Case1.png" width="300">
-  <img align="center" src="./src/images/3D%20Models/Case2.png" width="300">
+  <img align="center" src="./src/images/3D%20Models/Case3.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/Case1.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/Case2.png" width="260">
 </p>
 
 ### **BACK:**
 
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/3D%20Models/Back2.png" width="300">
-  <img align="center" src="./src/images/3D%20Models/Back3.png" width="300">
-  <img align="center" src="./src/images/3D%20Models/Back1.png" width="300">
+  <img align="center" src="./src/images/3D%20Models/Back2.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/Back3.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/Back1.png" width="260">
 </p>
 
 
