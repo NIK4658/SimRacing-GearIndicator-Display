@@ -18,19 +18,29 @@
 
 ## **PROJECT DESCRIPTION:**
 
-Text Description
+This project is a **DIY hardware project** and it's a *Gear Indicator* used for **SimRacing**.
+
+The *purpose* of this project is to **improve immersion** while playing *Racing games*.
+
+The necessary components are few and they are **really cheap**.
+
+**No line of code is needed**, as the integration is **handled automatically** by a third party software called *[SimHub](https://www.simhubdash.com/)*.
+
+
+---
+
 
 <p class="Project Presentation Image" align="center">
   <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="1000">
 </p>
 
-### Features
+### **Features**
 - Shows all possible one-digit gears, including **Neutral** (N) and **Reverse** (R).
 - **Flashes** while the car is on the redline. *(Optional)*
 - **Compatible with all Racing games** thanks to [SimHub](https://www.simhubdash.com/).
 
 
-## Ratings
+## **Ratings**
 
 **Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
@@ -48,7 +58,7 @@ Text Description
 
 ---
 
-## 3D MODELS IMAGES
+## **3D MODELS IMAGES**
 
 ### **CASE:**
 
@@ -101,16 +111,18 @@ Text Description
 2. Connect the **VCC (5V)** to the correct pin of the **Seven-segment Display**.
 3. Connect the **Shift Register Chip** to the **Seven-segment Display** and **placing resistors in the middle**.
 4. Fix the chip and arduino securely to the back of the display.
-5. Insert the components into the *3D printed Case* and close it.
-6. Connect Arduino to the PC via USB cable.
-7. Install the **latest version** of *[SimHub](https://www.simhubdash.com/)*.
-8. *Setup the Gear Indicator Display Via [SimHub](https://www.simhubdash.com/)*.
+5. Insert the components into the *3D printed Case*.
+6. **Secure** the components inside the case with a bit of *hot glue* or *super glue*.
+7. *Close* the case.
+8. Connect Arduino to the PC via USB cable.
+9. Install the **latest version** of *[SimHub](https://www.simhubdash.com/)*.
+10. *Setup the Gear Indicator Display Via [SimHub](https://www.simhubdash.com/)*.
 
 ---
 
-## GALLERY:
+## **GALLERY:**
 
-### RENDERS
+### **RENDERS**
 
 <p class="Render1 & 2" align="center">
   <img align="center" src="./src/images/Renders/IsolatedClose-Up.png" width="400">
@@ -121,7 +133,7 @@ Text Description
   <img align="center" src="./src/images/Renders/Close-up.png" width="1000">
 </p>
 
-## IRL (Project Completed)
+## **IRL (Project Completed)**
 
 <p class="3D MODELS IMAGES" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
