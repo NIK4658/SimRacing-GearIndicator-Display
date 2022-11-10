@@ -135,6 +135,7 @@ The necessary components are few and they are **really cheap**.
 
 ## **IRL (Project Completed)**
 
-<p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="IRL Images" align="center">
+  <img align="center" src="./src/images/IRL/Front.png" width="400">
+  <img align="center" src="./src/images/IRL/Side.png" width="400">
 </p>
